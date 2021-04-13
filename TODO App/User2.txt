@@ -1,0 +1,5 @@
+[ ] study
+[x] eat_and_drink
+[ ] read
+[x] go_for_holiday
+

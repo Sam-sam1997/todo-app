@@ -1,0 +1,5 @@
+[x] study
+[x] eat_and_drink
+[x] work_on_project
+[x] walk
+[x] study
